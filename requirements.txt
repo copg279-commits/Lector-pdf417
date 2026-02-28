@@ -3,3 +3,4 @@ gunicorn
 opencv-python-headless
 numpy
 pdf417decoder
+Pillow
